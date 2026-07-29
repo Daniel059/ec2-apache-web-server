@@ -339,13 +339,14 @@ Through this project I learned how to:
 
 ## Acknowledgements
 
-This project was completed as part of the **CloudHER by WIICA Week 4 Cloud Computing Assignment**, which focuses on introducing learners to cloud technologies and practical AWS deployment skills.
+This project was completed as part of the **CloudHER** by **WIICA Week 4 Cloud Computing Assignment**, designed to introduce learners to cloud technologies and hands-on AWS deployment.
 
-Special thanks to my mentor **Rajpreet Gill** for her guidance and support throughout my CloudHER journey. Her mentorship helped me deepen my understanding of **AWS and Cloud Computing**, and gave me valuable insights into building and deploying cloud-based solutions.
+I would like to extend my sincere gratitude to my mentor, **Rajpreet Gill**, for her invaluable guidance and support throughout my **CloudHER** journey. Her mentorship deepened my understanding of AWS and Cloud Computing and provided me with practical insights into building and deploying cloud-based solutions.
 
 | Organization | Link |
 |--------------|------|
 | Women Innovating in Cloud Africa (WIICA) | [LinkedIn](https://www.linkedin.com/company/wiica/) |
+| Paula Ali Wakabi (Miss. Cloud) (Founder@WIICA) | [LinkedIn](https://www.linkedin.com/in/paulawakabi/) |
 | Rajpreet Gill (Mentor) | [LinkedIn](https://www.linkedin.com/in/rajpreet-gill-devop/) |
 
 ---
