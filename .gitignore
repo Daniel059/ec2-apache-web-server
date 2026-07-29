@@ -1,0 +1,10 @@
+# Ignore private key files
+*.pem
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor settings
+.vscode/
+.idea/
