@@ -331,7 +331,6 @@ Through this project I learned how to:
 ## Author
 
 **Daniel Nzioki Musyoka**  
-CloudHER by WIICA — Week 4 Participant
 
 [![GitHub](https://img.shields.io/badge/GitHub-Daniel059-181717?logo=github)](https://github.com/Daniel059)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Nzioki%20Musyoka-0A66C2?logo=linkedin)](https://www.linkedin.com/in/daniel-nzioki-musyoka)
